@@ -10,7 +10,4 @@ This vault holds fun, logic, and interactive experiences for casual players and 
 - 🔹 **Intern Task 1** – A starter game to kick off the collection  
 *(More games coming soon…)*
 
----
-
-## 📁 Folder Structure
 
